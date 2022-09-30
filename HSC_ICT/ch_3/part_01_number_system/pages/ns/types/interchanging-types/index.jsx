@@ -173,7 +173,7 @@ const ActiveBtn = ({ o2o, txt, o2otxt, func }) => {
 
 }
 
-export default function index() {
+export default function InterchanginTypes() {
     const [o2o, setO2o] = useState('Decimal & Binary')
 
     return (
